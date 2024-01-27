@@ -294,7 +294,11 @@ section {
 }
 
 .details-container {
+<<<<<<< Updated upstream
     padding 1.5rem;
+=======
+    padding: 1.5rem;
+>>>>>>> Stashed changes
     flex: 1;
     background: white;
     border-radius: 2rem;
@@ -331,6 +335,10 @@ section {
     display: flex;
     justify-content: center;
     flex-direction: column;
+<<<<<<< Updated upstream
+=======
+    padding: 1rem, 1rem;
+>>>>>>> Stashed changes
 }
 
 .article-container {
@@ -356,6 +364,7 @@ article .icon {
 /* Projects */
 
 #projects {
+<<<<<<< Updated upstream
   position: relative;
 }
 
@@ -364,3 +373,7 @@ article .icon {
   background: rgb(250, 250, 250);
 }
 
+=======
+    position: relative;
+}
+>>>>>>> Stashed changes
